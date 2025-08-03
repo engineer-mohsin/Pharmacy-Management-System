@@ -1,0 +1,15 @@
+====================================================
+=	     Pharmacy Managment System		   =
+=	           Programed by		               =
+=	        Mohsin Ashfaq Ahmad		         =
+=	            BSSE 20589		  	         =
+----------------------------------------------------
+=	       Resultion == 1600x900
+=    There are 5 main Components to Execute this   =
+=         1- Program and operate Properly		   =
+=         2- Bills Folder (To Keep Back)		   =
+=         3- Fonts Folder (To Look Attractive)     =
+=         4- Icon  File   (To Give Meaning)	   =
+=         5- Application File (To Execute Program) =
+=	  
+====================================================

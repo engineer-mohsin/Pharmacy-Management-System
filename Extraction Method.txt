@@ -1,0 +1,2 @@
+To EXE = pyinstaller -w -F -i '.\Icon.ico' .\Source_Code.py
+To Application = EXE convert to ZIP & then use NSIS (WIthout Changes)
