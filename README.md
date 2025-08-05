@@ -4,6 +4,10 @@ A **fully functional desktop application** developed as a **University Project**
 
 ---
 
+<a href="https://1024terabox.com/s/1hsD9V2s5bcd7y3nZNQ5N6Q"><h2>Download & Install the App</h2></a>
+
+---
+
 ## 📌 Key Features
 
 - 🧾 **Product Listing**: Add, update, and delete medicines with details like name, price, and quantity.
