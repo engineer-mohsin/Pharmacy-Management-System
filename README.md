@@ -4,7 +4,7 @@ A **fully functional desktop application** developed as a **University Project**
 
 ---
 
-<a href="https://1024terabox.com/s/1lBHTsLfcxge3HaT_9I9T1g" target="_blank"><h2>Download & Install the App</h2></a>
+## 📲 [Download & Install the App](https://1024terabox.com/s/13x91T5h2UL1VXmBfVLjJpA)
 
 ---
 
@@ -41,4 +41,6 @@ A **fully functional desktop application** developed as a **University Project**
    git clone https://github.com/your-username/pharmacy-management-system.git
    cd pharmacy-management-system
 
-<img src="https://github.com/engineer-mohsin/Pharmacy-Management-System/blob/main/Image%20Sample.png">
+![pharmacy-management-system](https://github.com/user-attachments/assets/a758feff-72b6-4015-bbb6-f1543728ec14)
+
+   
